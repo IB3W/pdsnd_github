@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-usa bikeshare
+usa bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+ added installation instructions and usage examples to README.md
 
 ### Files used
 washington.csv
