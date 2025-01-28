@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-##edit python file
+##fix: Resolved issue with data filtering
 
 # Creating a dictionary containing the data sources for the three cities
 CITY_DATA = {
